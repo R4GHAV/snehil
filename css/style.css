@@ -1025,7 +1025,7 @@ support for no js
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
-	img, video {
+	img {
 		max-width: 100%;
 		height: auto;
 	}	
